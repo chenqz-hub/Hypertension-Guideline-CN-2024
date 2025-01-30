@@ -1,0 +1,4 @@
+Tkinter is included with Python's standard library, so it doesn't need to be listed in requirements.txt. However, if you plan to include any additional libraries, you can specify them here. For now, the contents of the requirements.txt file will be empty.
+
+# requirements.txt
+# This file is intentionally left blank.
